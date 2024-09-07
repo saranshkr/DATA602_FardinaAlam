@@ -1,2 +1,9 @@
-.DS_Store
+HW0/data.DAT
+
+# My file was created as data.DAT.rtf
 HW0/data.DAT*
+
+# Extras
+.DS_Store
+__pycache__*
+torch-test-script.ipynb
